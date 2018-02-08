@@ -5230,6 +5230,16 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"\/css\/app-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/app-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"\/css\/app.css": {
 		"aP": 1,
 		"bl": 0,
@@ -5239,6 +5249,13 @@
 		"oAP": "\/css\/app-min.css",
 		"oF": 0,
 		"oS": 3
+		},
+	"\/form.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/form.html",
+		"oF": 0
 		},
 	"\/gulpfile.js": {
 		"ft": 64,
@@ -5255,6 +5272,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/index.html",
+		"oF": 0
+		},
+	"\/index2.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/index2.html",
 		"oF": 0
 		},
 	"\/js\/app.js": {
@@ -5306,6 +5330,13 @@
 		"pME": 1,
 		"rFN": 0,
 		"uCM": 0
+		},
+	"\/result.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/result.html",
+		"oF": 0
 		},
 	"\/scss\/_settings.scss": {
 		"aP": 0,
